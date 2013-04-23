@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CalGuess!</string>
+    <string name="app_name">KalenderRaten</string>
+    <string name="strMontag">Mon</string>
+    <string name="strDienstag">Die</string>
+    <string name="strMittwoch">Mit</string>
+    <string name="strDonnerstag">Don</string>
+    <string name="strFreitag">Fre</string>
+    <string name="strSamstag">Sam</string>
+    <string name="strSonntag">Son</string>
+    <string name="myClickHandler">myClickHandler</string>
+    <string name="strEmpty"></string>
+    <string name="strStart">Start</string>
+    <string name="handlerBtnStart">handlerBtnStart</string>
+    <string name="menu_einstellungen">Einstellungen</string>
+    <string name="options_einstellungen">Einstellungen</string>
+    <string name="tx_list_ueberschrift">HighScore</string>
+    <string name="menu_hiscore">Highscore anzeigen</string>
+</resources>
