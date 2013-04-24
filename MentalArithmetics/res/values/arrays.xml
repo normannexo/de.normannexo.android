@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="modes">
+        <item >x + y</item>
+        <item >x * y</item>
+        <item >x - y</item>
+        <item >x²</item>
+        <item >@string/mix</item>
+        
+    </string-array>
+    <string-array
+        name="modevalues" >
+        <item >Plus</item>
+        <item >Mal</item>
+        <item >Minus</item>
+        <item >Quad</item>
+        <item >Mix</item>
+    </string-array>
+    <string-array
+        name="stellen">
+        <item>@string/stellen1</item>
+        <item>@string/stellen2</item>
+        <item>@string/stellen3</item>
+        <item>@string/stellen4</item>
+    </string-array>
+    <string-array 
+        name="stellen1">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array 
+        name="stellen2">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+   
+</resources>

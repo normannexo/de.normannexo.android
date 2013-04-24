@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mental Arithmetic</string>
+    <string name="quad">x²</string>
+    <string name="mal">x*y</string>
+    <string name="minus">x - y</string>
+    <string name="plus">x + y</string>
+    <string name="mix">mixed mode</string>
+    <string name="prefs">Settings</string>
+     <string name="prefmodustitle">Operation mode</string>
+    <string name="prefmodussummary">Choose mathematical operation</string>
+    <string name="prefzahl1title">First number</string>
+    <string name="prefzahl1summary">Choose number of digits</string>
+    <string name="prefzahl2title">Second number</string>
+    <string name="prefzahl2summary">Choose number of digits</string>
+    <string name="prefdigitstitle">Digits</string>
+    <string name="stellen1">1 digit</string>
+    <string name="stellen2">2 digits</string>
+    <string name="stellen3">3 digits</string>
+    <string name="stellen4">4 digits</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+   <PreferenceCategory 
+       android:title="Modus"
+       android:key="mode" >
+       <ListPreference 
+           android:key="modus"
+           android:title="@string/prefmodustitle"
+           android:summary="@string/prefmodussummary"
+           android:entries="@array/modes"
+           android:entryValues="@array/modevalues"
+           />
+           
+   </PreferenceCategory> 
+   <PreferenceCategory 
+       android:title="@string/prefdigitstitle">
+       <ListPreference 
+           android:key="stellen1"
+           android:title="@string/prefzahl1title"
+           android:summary="@string/prefzahl1summary"
+           android:entries="@array/stellen"
+           android:entryValues="@array/stellen1"
+           />
+       <ListPreference 
+           android:key="stellen2"
+           android:title="@string/prefzahl2title"
+           android:summary="@string/prefzahl2summary"
+           android:entries="@array/stellen"
+           android:entryValues="@array/stellen2"
+           />
+   </PreferenceCategory>
+
+</PreferenceScreen>
